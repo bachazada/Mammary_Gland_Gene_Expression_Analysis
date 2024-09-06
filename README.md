@@ -1,6 +1,3 @@
-# Mammary_Gland_Gene_Expression_Analysis
-This repository contains analysis of gene expression profiles of basal stem-cell enriched cells (B) and committed luminal cells (L) in the mammary gland of virgin, pregnant, and lactating mice  includes differential expression, quality control, and visualization using heatmaps and multi-dimensional scaling (MDS) plots.
-
 # Mammary Gland Gene Expression Analysis
 
 This repository contains the scripts, data, and results for analyzing the gene expression profiles of basal stem-cell enriched cells (B) and committed luminal cells (L) in the mammary gland of virgin, pregnant, and lactating mice. The analysis includes quality control, filtering, normalization, and visualizations such as heatmaps and MDS plots.
