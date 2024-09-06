@@ -18,9 +18,6 @@ This repository contains the scripts, data, and results for analyzing the gene e
   - `MDS.pdf`: Multi-dimensional scaling (MDS) plots showing cell type and status differences.
   - `heatmap_most_variable.pdf`: A heatmap showing the samples' top 500 most variable genes.
 
-- **Documentation:**
-  - `Tutorial_4_NGS_analysis.pdf`: Contains step-by-step instructions for performing gene expression analysis using R.
-
 ## Usage
 
 1. Clone the repository:
